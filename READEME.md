@@ -17,7 +17,7 @@ styling using css
 ## CONTACT ME
 Contact me for any issues or have questions, ideas and contribution.
 ### License
-(MIT)IT License
+(MIT) https://github.com/joyline254/FRIENDREPO/blob/main/css/license
 
 Copyright (c) [year] [fullname]
 Copyright (c) {year} **{List of contributors or company name}**
