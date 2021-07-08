@@ -1,6 +1,8 @@
 body {
- background-color: aliceblue;    
+ background-color: aliceblue; 
+ background-image: url (./I);   
 }
+
 h1 { 
  color: rebeccapurple;
 
